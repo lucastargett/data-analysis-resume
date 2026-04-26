@@ -28,4 +28,4 @@ I am currently completing a Master’s in IT (Data Science) at Deakin University
 
 I also work as a **Team Lead on Project Orion**, coordinating a 20+ member team across backend, frontend, and data workflows, aligning technical work with project goals 
 
-(**Refer to my Redback Orion Project in my repo**)
+(**Refer to my Redback Orion Project in my repo within the 26_T1/afl_player_tracking_and_crowd_monitoring folder**)
